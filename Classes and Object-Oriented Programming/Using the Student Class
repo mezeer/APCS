@@ -4,10 +4,8 @@ public class StudentTester extends ConsoleProgram
     {
         Student alan = new Student("Alan", "Turing", 11);
         Student ada = new Student("Ada", "Lovelace", 12);
-        Student me = new Student("Ethan", "Terry", 17);
         
         System.out.println(alan);
         System.out.println(ada);
-        System.out.println(me);
     }
 }
